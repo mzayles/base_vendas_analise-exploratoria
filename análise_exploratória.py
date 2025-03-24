@@ -51,7 +51,7 @@ type(df['Nome Funcionario'])
 # índices
 df.index
 
-# traz o nome de todas as colunas
+# retorna o nome de todas as colunas
 df.columns
 
 # list: []
